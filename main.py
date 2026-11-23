@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 
-WORD = "chattybox"
+WORD = "knowitallbox"
 
 
 def main():
